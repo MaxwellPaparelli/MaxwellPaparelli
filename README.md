@@ -3,6 +3,15 @@
 - 🔭 Hoje trabalho como cientista de dados
 - 🌱 Estou atualmente estudando front-end
 
+##
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxwellPaparelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellPaparelli&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<br>
+
+##
 ### Notebooks de ciência de dados
 #### Problemas de classificação
 * Machine Learning para detecção de Câncer de Mama: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Machine_learning_Outr_Rosa.ipynb)
