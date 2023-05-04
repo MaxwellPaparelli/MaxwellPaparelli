@@ -14,12 +14,12 @@
 * Clusterização de clientes e probabilidade deles estarem "vivos" (realizando compras) em uma loja de varejo online: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Clustering_and_Percent_alive.ipynb)
 
 #### Analise exploratória e data viz
-* Utilizando Data Science para conseguir mais "corridas" no Uber: [Clique aqui](https://www.linkedin.com/pulse/como-conseguir-mais-corridas-com-o-uber-em-new-york-avila-paparelli/?trackingId=pe17W94CSS2iv4jM2iPqpA%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Uber)
-* Análise Exploratória dos dados de suicídio no Brasil e no Mundo a fim de ajudar com Insights sobre o Setembro Amarelo: [Clique aqui](https://github.com/MaxwellPaparelli/Time_Series/blob/main/Yellow_September_Analysis.ipynb)
-* Ajudando a minimizar os índices de acidentes de aeronaves utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-minimizar-os-%C3%ADndices-de-acidentes-aeronaves-avila-paparelli?trk=portfolio_article-card_title) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Aviacao)
-* Ajudando a diminuir os índices de criminalidade em São Paulo utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-diminuir-%25C3%25ADndices-de-crimes-com-data-science-avila-paparelli/?trackingId=lUPx7w6wQ9OnSXKZ8C9L9g%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Indice_Criminalidade_SP)
-* BI para setor sucroalcooleiro com informações estratégicas para parada industrial por chuva - Para ver [Clique aqui](https://www.linkedin.com/feed/update/urn:li:activity:6755261706089357312/)
-* BI para setor educacional com informações estratégicas para ações de melhoria de notas dos alunos - Para ver [Clique aqui](https://www.linkedin.com/feed/update/urn:li:activity:6761045921418551296/)
+* Utilizando Data Science para conseguir mais "corridas" no Uber: [Clique aqui para verificar o post no linkedin](https://www.linkedin.com/pulse/como-conseguir-mais-corridas-com-o-uber-em-new-york-avila-paparelli/?trackingId=pe17W94CSS2iv4jM2iPqpA%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Uber)
+* Análise Exploratória dos dados de suicídio no Brasil e no Mundo a fim de ajudar com Insights sobre o Setembro Amarelo: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Time_Series/blob/main/Yellow_September_Analysis.ipynb)
+* Ajudando a minimizar os índices de acidentes de aeronaves utilizando Data Science: [Clique aqui para verificar o post no linkedin](https://www.linkedin.com/pulse/ajudando-minimizar-os-%C3%ADndices-de-acidentes-aeronaves-avila-paparelli?trk=portfolio_article-card_title) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Aviacao)
+* Ajudando a diminuir os índices de criminalidade em São Paulo utilizando Data Science: [Clique aqui para verificar o post no linkedin](https://www.linkedin.com/pulse/ajudando-diminuir-%25C3%25ADndices-de-crimes-com-data-science-avila-paparelli/?trackingId=lUPx7w6wQ9OnSXKZ8C9L9g%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Indice_Criminalidade_SP)
+* BI para setor sucroalcooleiro com informações estratégicas para parada industrial por chuva - Para verificar o post no linkedin [Clique aqui](https://www.linkedin.com/feed/update/urn:li:activity:6755261706089357312/)
+* BI para setor educacional com informações estratégicas para ações de melhoria de notas dos alunos - Para verificar o post no linkedin [Clique aqui](https://www.linkedin.com/feed/update/urn:li:activity:6761045921418551296/)
 
 ##
 <div> 
