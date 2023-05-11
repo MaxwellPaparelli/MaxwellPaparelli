@@ -30,6 +30,11 @@
 * BI para setor educacional com informações estratégicas para ações de melhoria de notas dos alunos - Para verificar o post no linkedin [Clique aqui](https://www.linkedin.com/feed/update/urn:li:activity:6761045921418551296/)
 
 ##
+### Projetos pessoais de front-end e back-end
+#### Front-end
+* Construção de um site pratica do curso praticando HTML/CSS da alura: [site](https://maxwellpaparelli.github.io/alura-plus/) e [repositório](https://github.com/MaxwellPaparelli/alura-plus)
+
+##
 <div> 
   <a href="https://www.linkedin.com/in/maxwell-avila-paparelli-69201b135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@maxwellpaparelli" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
