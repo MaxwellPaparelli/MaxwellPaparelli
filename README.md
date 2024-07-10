@@ -1,7 +1,6 @@
 ### Olá sou Maxwell Avila Paparelli 👋
 
 - 🔭 Hoje trabalho como cientista de dados
-- 🌱 Estou atualmente estudando front-end
 
 ##
 <div>
