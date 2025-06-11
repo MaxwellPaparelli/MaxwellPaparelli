@@ -12,13 +12,17 @@
 ##
 ### Notebooks de ciência de dados
 #### Problemas de classificação
-* Machine Learning para detecção de Câncer de Mama: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Machine_learning_Outr_Rosa.ipynb)
-* Machine Learning para detecção de Fraudes em cartão de crédito: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Fraude_em_Cart%C3%A3o_de_Credito_Machine_Learning.ipynb)
-* Machine Learning para prever AVC: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Mach_Lean_PrevisaoAvc.ipynb)
-* Deep Learning aplicado a Manutenção Preditiva: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/ia-para-manute-o-preditiva-usando-redes-neurais.ipynb)
+* Clientes influenciados pela nota de avaliação dos restaurantes no momento de realizarem seu pedido. [Clique aqui para ver o notebook e base de dados](https://github.com/MaxwellPaparelli/TarefasPos/tree/main/Classifica%C3%A7%C3%A3o)
 
 #### Problemas de clusterização
-* Clusterização de clientes e probabilidade deles estarem "vivos" (realizando compras) em uma loja de varejo online: [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Clustering_and_Percent_alive.ipynb)
+* Clusterização de clientes e probabilidade deles estarem "vivos" (realizando compras) em uma loja de varejo online. [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Clustering_and_Percent_alive.ipynb)
+* Segmentar os seus usuários frequentes com base em suas preferências de gêneros de filmes, a fim de personalizar os títulos que são recomendados. [Clique aqui para ver o notebook e base de dados](https://github.com/MaxwellPaparelli/TarefasPos/tree/main/Segmenta%C3%A7%C3%A3o)
+
+#### Problemas de projeção
+* Estimar o gasto potencial futuro de novos clientes que adquiriram o cartão de débito exclusivo da loja. [Clique aqui para ver o notebook e base de dados](https://github.com/MaxwellPaparelli/TarefasPos/tree/main/Proje%C3%A7%C3%A3o)
+
+#### Case de deep learning
+* Identificação de cenários em todo o mundo, afim de obter uma classificação automática de imagens em categorias de cenários ao redor do mundo, com foco na aplicação prática para uma empresa do setor de turismo. [Clique aqui para ver o notebook e PPT com apresentação do case](https://github.com/MaxwellPaparelli/TarefasPos/tree/main/Deep%20Learning)
 
 #### Analise exploratória e data viz
 * Utilizando Data Science para conseguir mais "corridas" no Uber: [Clique aqui para verificar o post no linkedin](https://www.linkedin.com/pulse/como-conseguir-mais-corridas-com-o-uber-em-new-york-avila-paparelli/?trackingId=pe17W94CSS2iv4jM2iPqpA%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Uber)
