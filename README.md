@@ -40,6 +40,7 @@
 ### Projetos pessoais de front-end e back-end
 #### Front-end
 * Construção de um site pratica do curso praticando HTML/CSS da alura: [site](https://maxwellpaparelli.github.io/alura-plus/) e [repositório](https://github.com/MaxwellPaparelli/alura-plus)
+* Trabalhando como voluntário, construi de um site em wordpress e um sistema de cadastro de membros de uma igreja utilizando Django: [site](https://igrejamissionariaararaquara.com/)
 
 ##
 <div> 
