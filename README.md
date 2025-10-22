@@ -18,6 +18,10 @@
 #### Problemas de clusterização
 * Clusterização de clientes e probabilidade deles estarem "vivos" (realizando compras) em uma loja de varejo online. [Clique aqui para ver o notebook](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Clustering_and_Percent_alive.ipynb)
 * Segmentar os seus usuários frequentes com base em suas preferências de gêneros de filmes, a fim de personalizar os títulos que são recomendados. [Clique aqui para ver o notebook e base de dados](https://github.com/MaxwellPaparelli/TarefasPos/tree/main/Segmenta%C3%A7%C3%A3o)
+* Trabalho de Conclusão de Curso - Pós graduação | Especialização em Analytics e IA - Data Science, Data Science - FIA Business School. Cluterização de clientes de uma loja virtual para conhecer os perfis de clientes e melhor engaja-los e otimizar promoções. [Clique aqui para ver o notebook com os testes](https://github.com/MaxwellPaparelli/TCC/blob/main/TCC_Compras_Online.ipynb), [Clique aqui para ver o PPT da defesa do trabalho de conclusão de curso.](https://github.com/MaxwellPaparelli/TCC/blob/main/PPT_TCC%20-%20Entrega%201%2C%202%2C%203%20e%204%20-%20Compras_Online%20Final.pptx)
+
+
+
 
 
 #### Problemas de projeção
